@@ -10,9 +10,25 @@
 
 ---
 
+## 🧭 Table of Contents
+- [👾 GeekUp GitHub Profile](#-geekup-github-profile)
+  - [🧭 Table of Contents](#-table-of-contents)
+  - [🧐 Introduction](#-introduction)
+  - [⚡ Let's Start](#-lets-start)
+    - [🪄 Create Your Landing Page : GitHub Profile](#-create-your-landing-page--github-profile)
+    - [😎 Let's Customize](#-lets-customize)
+    - [💾 Or Copy a Template](#-or-copy-a-template)
+      - [🧩 Minimal \& Clean](#-minimal--clean)
+      - [🖌️ Add small details to connect with the audience](#️-add-small-details-to-connect-with-the-audience)
+      - [🤩 Make it fancy with badges](#-make-it-fancy-with-badges)
+      - [Dynamic Widgets (Optional)](#dynamic-widgets-optional)
+  - [🏆 Hall of Fame - Showcase your profile](#-hall-of-fame---showcase-your-profile)
+  - [📊 GitHub Stats](#-github-stats)
+    - [🧑‍🚀 Example (Sanchi Varma)](#-example-sanchi-varma)
+
 ## 🧐 Introduction
 
-`geekup-github-profile` is your **one-stop README playground** o craft a beautiful, personalized, and delightfully geeky GitHub profile..
+`geekup-github-profile` is yo ur **one-stop README playground** o craft a beautiful, personalized, and delightfully geeky GitHub profile..
 
 “A living gallery of developer identities — powered by creativity, markdown, and caffeine ☕.”
 
@@ -152,12 +168,26 @@ A galaxy of geeks with standout profiles ✨
 
 | **Profile** | **Style** | **Highlights** |
 |--------------|-----------|----------------|
+| [sanchivarma](https://github.com/sanchivarma) | Minimal + API badges | Geeky Humour |
 | [Add Your Name Here](https://github.com/your-username) | Minimal + API badges | Custom layout |
 | [Add Your Name Here](https://github.com/your-username) | Fancy animated intro | Dark theme |
 
+---
 
+## 📊 GitHub Stats
+
+Show off your GitHub performance using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
+
+### 🧑‍🚀 Example (Sanchi Varma)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanchivarma&show_icons=true&theme=tokyonight" alt="Sanchi Varma's GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchivarma&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
+
+> 📎 Tip: You can replace the username in the image URL to show your own stats!
 
 ---
+
 
 💌 Connect
 Follow the repo for more APIs & open-source fun
@@ -173,5 +203,4 @@ Thanks to all who help build the Hall of Fame ⭐
 ---
 
 ⭐ **Star this repo** if it helped you level up your GitHub profile!  
-🪐 Explore more APIs & fun tools at [Geekageddon.com](https://geekageddon.com)
-
+🪐 Stay tuned for latest widgets and updates to geek-up your profile ! 
