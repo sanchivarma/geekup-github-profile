@@ -63,6 +63,7 @@ Feel free to contribute and add and promote your widget as well.
 > <p align="center">Full Stack Developer ⚡ | API Builder 🧰 | Geek by choice 🧙‍♂️</p>
 
 <details>
+
 <summary><b>👉 Click here to expand for instructions</b></summary>
 
 ```html
@@ -78,7 +79,9 @@ Feel free to contribute and add and promote your widget as well.
 &nbsp;
 **# Or Add an animated fancy headline**
 <img align="left" src="https://readme-typing-svg.herokuapp.com?color=00B637&center=true&vCenter=true&multiline=true&width=600&height=85&lines=Hi+I'm+YourName+%F0%9F%91%8B;I'm+a+FullStack+Software+Engineer;I+am+based+in+Berlin%2C+Germany" style="max-width: 100%;height: 80px; margin-right: 50px"> 
+
 <details>
+
 <summary><b>👉 Click here to expand for instructions</b></summary>
 
 Go to : https://readme-typing-svg.herokuapp.com/demo/
