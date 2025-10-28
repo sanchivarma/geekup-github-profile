@@ -152,18 +152,35 @@ You can customize the heading and value as you like.
 
 **1. Add some Geeky jokes to make it fun**
 
-Get a random joke on every page visit.
+Get a random geeky joke on every page visit.
 
 Sample use :
 ```
 ![Matrix Jokes Card](https://geekageddon-api.vercel.app/api/jokes?theme=matrix&borderAnimation=dash)
 ```
-
-![Matrix Jokes Card](https://geekageddon-api.vercel.app/api/jokes?theme=matrix&borderAnimation=dash)
+![Tokyo Night Jokes Card](https://geekageddon-api.vercel.app/api/jokes?theme=tokyonight&borderAnimation=rainbow-pulse-dots)
 
 ![Tokyo Night Jokes Card](https://geekageddon-api.vercel.app/api/jokes?theme=tokyonight&borderAnimation=neon)
 
-> For more custom options, visit: [geekageddon-api](https://github.com/sanchivarma/geekageddon-api)
+> Full options and previews: [GEEK-JOKES](https://github.com/sanchivarma/geekageddon-api/blob/main/GEEK-JOKES.md)
+
+
+**2. Add Motivational Quotes for a daily boost**
+
+Show a themed quote with animated borders.
+
+Sample use:
+```
+![Daily Motivation](https://geekageddon-api.vercel.app/api/quotes?theme=aurora&category=grit&borderAnimation=rainbow-pulse-dots)
+```
+
+More fun variants:
+
+![Rainbow Ants Quote](https://geekageddon-api.vercel.app/api/quotes?theme=vaporwave&category=inspiration&borderAnimation=rainbow-ants)
+![Scanner Quote](https://geekageddon-api.vercel.app/api/quotes?theme=vscode&category=focus&borderAnimation=scan)
+
+
+> Full options and previews: [GEEK-QUOTES](https://github.com/sanchivarma/geekageddon-api/blob/main/GEEK-QUOTES.md)
 
 ## 🏆 Hall of Fame - Showcase your profile
 
