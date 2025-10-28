@@ -52,6 +52,7 @@ i.e.
 > The README in this repo, becomes your personal landing page on GitHub.  
 Let’s make it *shine* ✨
 
+---
 
 ### 😎 Let's Customize 
 Feel free to cherry pick any style or widget as it suits your profile. 
@@ -75,22 +76,28 @@ Feel free to contribute and add and promote your widget as well.
 <p align="center">Full Stack Developer ⚡ | API Builder 🧰 | Geek by choice 🧙‍♂️</p>
 ```
 </details>
+<br clear="left"/>
 
-&nbsp;
 **# Or Add an animated fancy headline**
+<br clear="left"/>
+
 <img align="left" src="https://readme-typing-svg.herokuapp.com?color=00B637&center=true&vCenter=true&multiline=true&width=600&height=85&lines=Hi+I'm+YourName+%F0%9F%91%8B;I'm+a+FullStack+Software+Engineer;I+am+based+in+Berlin%2C+Germany" style="max-width: 100%;height: 80px; margin-right: 50px"> 
 
-<details>
+<br clear="left"/>
 
+<details>
 <summary><b>👉 Click here to expand for instructions</b></summary>
 
 Go to : https://readme-typing-svg.herokuapp.com/demo/
-And create your own Welcome headline. Copy the code from there and paste to your markdown file. 
+And create your own Welcome headline. Copy the code from there and paste to your markdown file.
+
 </details>
+<br/>
+
+---
 
 ### 💾 Or Copy a Template
 Pick one below from som starting points and tweak it as you like:
-
 
 #### 🧩 Minimal & Clean
 ```md
