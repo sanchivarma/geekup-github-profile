@@ -12,7 +12,7 @@
 
 ## 🧭 Table of Contents
 - [👾 GeekUp GitHub Profile](#-geekup-github-profile)
-  - [🧭 Table of Contents](#-table-of-contents)
+  - [� Table of Contents](#-table-of-contents)
   - [🧐 Introduction](#-introduction)
   - [⚡ Let's Start](#-lets-start)
     - [🪄 Create Your Landing Page : GitHub Profile](#-create-your-landing-page--github-profile)
@@ -25,6 +25,7 @@
   - [🏆 Hall of Fame - Showcase your profile](#-hall-of-fame---showcase-your-profile)
   - [📊 GitHub Stats](#-github-stats)
     - [🧑‍🚀 Example (Sanchi Varma)](#-example-sanchi-varma)
+
 
 ## 🧐 Introduction
 
@@ -157,6 +158,8 @@ You can customize the heading and value as you like.
 
 #### Dynamic Widgets (Optional)
 
+<a id="widget-jokes"></a>
+
 **1. Add some Geeky jokes to make it fun**
 
 Get a random geeky joke on every page visit.
@@ -172,6 +175,8 @@ Sample use :
 > Full options and previews: [GEEK-JOKES](https://github.com/sanchivarma/geekageddon-api/blob/main/GEEK-JOKES.md)
 
 
+
+<a id="widget-quotes"></a>
 **2. Add Motivational Quotes for a daily boost**
 
 Show a themed quote with animated borders.
