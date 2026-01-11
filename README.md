@@ -194,6 +194,23 @@ More fun variants:
 
 > Full options and previews: [GEEK-QUOTES](https://github.com/sanchivarma/geekageddon-api/blob/main/GEEK-QUOTES.md)
 
+<a id="widget-gitstreak"></a>
+**3. Add GitStreak (current + longest streak)**
+
+Show your GitHub streak with themes and optional contribution grid.
+
+Sample use:
+```
+![GitStreak](https://geekageddon-api.vercel.app/gitstreak?user=YOUR_USER&theme=github)
+```
+
+With graph:
+```
+![GitStreak Graph](https://geekageddon-api.vercel.app/gitstreak?user=YOUR_USER&theme=tokyonight&showgraph=true)
+```
+
+> Full options and previews: [GIT-STREAK](https://github.com/sanchivarma/geekageddon-api/blob/main/GIT-STREAK.md)
+
 ## 🏆 Hall of Fame - Showcase your profile
 
 A galaxy of geeks with standout profiles ✨
