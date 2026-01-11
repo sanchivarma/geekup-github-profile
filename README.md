@@ -195,21 +195,21 @@ More fun variants:
 > Full options and previews: [GEEK-QUOTES](https://github.com/sanchivarma/geekageddon-api/blob/main/GEEK-QUOTES.md)
 
 <a id="widget-gitstreak"></a>
-**3. Add GitStreak (current + longest streak)**
+**3. Add GitStreak (+ Multiple Themes & Contribution Grid)**
 
-Show your GitHub streak with themes and optional contribution grid.
+Show your GitHub streak with themes and optionally, contribution grid.
 
 Sample use:
 ```
-![GitStreak](https://geekageddon-api.vercel.app/gitstreak?user=YOUR_USER&theme=github)
+![GitStreak](https://geekageddon-api.vercel.app/gitstreak?user=sanchivarma&theme=github)
 ```
 
 With graph:
 ```
-![GitStreak Graph](https://geekageddon-api.vercel.app/gitstreak?user=YOUR_USER&theme=tokyonight&showgraph=true)
+![GitStreak Graph](https://geekageddon-api.vercel.app/gitstreak?user=sanchivarma&theme=tokyonight&showgraph=true)
 ```
 
-> Full options and previews: [GIT-STREAK](https://github.com/sanchivarma/geekageddon-api/blob/main/GIT-STREAK.md)
+> For Full options and previews: [GIT-STREAK](https://github.com/sanchivarma/geekageddon-api/blob/main/GIT-STREAK.md)
 
 ## 🏆 Hall of Fame - Showcase your profile
 
