@@ -1,6 +1,6 @@
 # 👾 GeekUp GitHub Profile
 > **Geek-up your GitHub — Build it. Beautify it. Boost it.**  
-> Showcase your creative profile and join the **Github-Readme Hall of Fame 🚀**
+
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/sanchivarma/geekup-github-profile?style=flat-square&color=purple"/>
@@ -12,7 +12,7 @@
 
 ## 🧭 Table of Contents
 - [👾 GeekUp GitHub Profile](#-geekup-github-profile)
-  - [� Table of Contents](#-table-of-contents)
+  - [🧭 Table of Contents](#-table-of-contents)
   - [🧐 Introduction](#-introduction)
   - [⚡ Let's Start](#-lets-start)
     - [🪄 Create Your Landing Page : GitHub Profile](#-create-your-landing-page--github-profile)
@@ -22,7 +22,6 @@
       - [🖌️ Add small details to connect with the audience](#️-add-small-details-to-connect-with-the-audience)
       - [🤩 Make it fancy with badges](#-make-it-fancy-with-badges)
       - [Dynamic Widgets (Optional)](#dynamic-widgets-optional)
-  - [🏆 Hall of Fame - Showcase your profile](#-hall-of-fame---showcase-your-profile)
   - [📊 GitHub Stats](#-github-stats)
     - [🧑‍🚀 Example (Sanchi Varma)](#-example-sanchi-varma)
 
@@ -174,7 +173,7 @@ Sample use :
 
 > Full options and previews: [GEEK-JOKES](https://github.com/sanchivarma/geekageddon-api/blob/main/GEEK-JOKES.md)
 
-
+---
 
 <a id="widget-quotes"></a>
 **2. Add Motivational Quotes for a daily boost**
@@ -194,6 +193,8 @@ More fun variants:
 
 > Full options and previews: [GEEK-QUOTES](https://github.com/sanchivarma/geekageddon-api/blob/main/GEEK-QUOTES.md)
 
+---
+
 <a id="widget-gitstreak"></a>
 **3. Add GitStreak (+ Multiple Themes & Contribution Grid)**
 
@@ -210,18 +211,6 @@ With graph:
 ```
 
 > For Full options and previews: [GIT-STREAK](https://github.com/sanchivarma/geekageddon-api/blob/main/GIT-STREAK.md)
-
-## 🏆 Hall of Fame - Showcase your profile
-
-A galaxy of geeks with standout profiles ✨
-
-| **Profile** | **Style** | **Highlights** |
-|--------------|-----------|----------------|
-| [sanchivarma](https://github.com/sanchivarma) | Minimal + API badges | Geeky Humour |
-| [Add Your Name Here](https://github.com/your-username) | Minimal + API badges | Custom layout |
-| [Add Your Name Here](https://github.com/your-username) | Fancy animated intro | Dark theme |
-
----
 
 ## 📊 GitHub Stats
 
@@ -251,5 +240,18 @@ Thanks to all who help build the Hall of Fame ⭐
 
 ---
 
-⭐ **Star this repo** if it helped you level up your GitHub profile!  
-🪐 Stay tuned for latest widgets and updates to geek-up your profile ! 
+⭐ **Star this repo** if you found it useful, & stay tuned for latest widgets and updates to geek-up your profile !
+
+<!--
+## 🏆 Hall of Fame - Showcase your profile
+
+A galaxy of geeks with standout profiles ✨
+
+| **Profile** | **Style** | **Highlights** |
+|--------------|-----------|----------------|
+| [sanchivarma](https://github.com/sanchivarma) | Minimal + API badges | Geeky Humour |
+| [Add Your Name Here](https://github.com/your-username) | Minimal + API badges | Custom layout |
+| [Add Your Name Here](https://github.com/your-username) | Fancy animated intro | Dark theme |
+
+---
+-->
