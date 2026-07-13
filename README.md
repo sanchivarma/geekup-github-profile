@@ -28,7 +28,7 @@
 
 ## 🧐 Introduction
 
-`geekup-github-profile` is your **one-stop README playground** o craft a beautiful, personalized, and delightfully geeky GitHub profile..
+`geekup-github-profile` is your **one-stop README playground** to craft a beautiful, personalized, and delightfully geeky GitHub profile..
 
 “A living gallery of developer identities — powered by creativity, markdown, and caffeine ☕.”
 
